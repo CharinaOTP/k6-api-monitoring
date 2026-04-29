@@ -14,33 +14,3 @@ or
 	postman-to-k6 billing.postman_collection.json -o billing-k6.js
 4. Use :k6 run billing-k6.js"
 5. CSV reporting> $output = & k6 run --quiet --log-format raw "$folder\billing-k6.js"
-
-
-1. <project folder file>  git init
-2. git add .
-3. git commit -m "K6 API monitoring setup"
-4. New Repo > Create New
-5. git remote add origin "link"
-6. git branch -M main
-7. git push -u origin main
-
-
-For every code change
-git status
-git add .
-git commit -m "Describe what you changed"
-git push
-
-git checkout -b feature/postman-collection  /create new batch
-git checkout main  or git switch main  /switch branch
-
-
-
-git restore .
-git checkout main
-git push -u origin other-person-updates
-git checkout -b other-person-updates
-
-git checkout main
-git pull
-git checkout -b test-new-report-format
