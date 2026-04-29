@@ -1,0 +1,6 @@
+﻿DateTime,API Name,Method,URL,Status Code,Response Time(ms),Result,Speed Status,Error
+"04/29/2026, 21:43:54","JSONPlaceholder Posts","GET","https://jsonplaceholder.typicode.com/posts","200","356","PASS","FAST",""
+"04/29/2026, 21:43:55","JSONPlaceholder Users","GET","https://jsonplaceholder.typicode.com/users","200","80","PASS","FAST",""
+"04/29/2026, 21:43:57","HTTPBin Bearer Test","GET","https://httpbin.org/bearer","200","939","PASS","WARNING",""
+"04/29/2026, 21:43:58","HTTPBin Get With Params","GET","https://httpbin.org/get?customerId=000001&type=test","200","382","PASS","FAST",""
+"04/29/2026, 21:44:00","Restful Booker Ping","GET","https://restful-booker.herokuapp.com/ping","201","993","PASS","WARNING",""
