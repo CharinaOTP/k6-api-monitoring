@@ -1,0 +1,4 @@
+﻿DateTime,API Name,Method,URL,Status Code,Response Time(ms),Result,Speed Status,Error
+"04/30/2026, 09:35:23","Bill Calculator","GET","https://dev-api3.davao-water.gov.ph/dcwd-erp-billing-collection/api/v1/billing/bill-calculator?accountNumber=051649713&ratesKey=02-01-2014&meterMaintenanceChargeFlag=1&consumption=25","200","119","PASS","FAST",""
+"04/30/2026, 09:35:24","BillingAdjustmentMemo-CreationBulkBamRequest","POST","https://dev-api3.davao-water.gov.ph/dcwd-erp-billing-collection/api/v1/billing/bam/create-bulk-bam-request","200","27","PASS","FAST",""
+"04/30/2026, 09:35:25","BillingAdjustmentMemo-CreateLeakAdjustment","POST","https://dev-api3.davao-water.gov.ph/dcwd-erp-billing-collection/api/v1/billing/bam/create-leak-adjustment","200","22","PASS","FAST",""
